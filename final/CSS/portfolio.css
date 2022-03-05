@@ -68,6 +68,10 @@ nav.line a.active{
 
 /* (C) HIDE HAMBURGER */
 label, #hamburger { display: none; }
+	
+	label.c1{
+	color: #FFEBA4;	
+	}
 
 body{
 	background: #024206;
