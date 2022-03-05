@@ -70,7 +70,8 @@ nav.line a.active{
 label, #hamburger { display: none; }
 	
 	p.c1{
-	color: #FFEBA4;	
+	color: #FFEBA4;
+		line-height: .3em;
 	}
 
 body{
