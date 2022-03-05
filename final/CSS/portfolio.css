@@ -69,7 +69,7 @@ nav.line a.active{
 /* (C) HIDE HAMBURGER */
 label, #hamburger { display: none; }
 	
-	label.c1{
+	p.c1{
 	color: #FFEBA4;	
 	}
 
@@ -257,11 +257,12 @@ footer p{
 	padding: 0;
 	border: .2em double #FFEBA4;
 }
-/*contact*/
+
 .no{
 	background-color: rgba(0, 0, 0, 0.0);
 	border: .2em double #FFEBA4;
 	margin: 1em;
+	color:#FFEBA4;
 }
 
 iframe{
