@@ -9,11 +9,11 @@ header h1{
 }
 
 header h1.s1{
-	color: #FFEBA4;
+	color: #024206;
 	text-align: center;
 	font-family: "AR bonnie regular",arial,roboto;
 	font-size: 3em;
-	text-shadow: 0 2px #024206;
+	text-shadow: 0 2px #FFEBA4;
 }
 
 header h2{
@@ -26,12 +26,12 @@ header h2{
 }
 
 header h2.s2{
-	color: #FFEBA4;
+	color: #024206;
 	text-align: center;
 	padding: 0.1em;
 	font-family: "AR bonnie regular",arial,roboto;
 	font-size: 1.5em;
-	text-shadow: 0 1.5px #024206;
+	text-shadow: 0 1.5px #FFEBA4;
 }
 
 nav{
@@ -44,17 +44,25 @@ nav a{
 	font-size: 1.3em;
 	text-decoration: .1em overline #FFEBA4; 
 	font-family: "AR bonnie regular",arial,roboto;
-	color: #FFEBA4;
+	color: #FF7663;
 
 }
 
 nav a.active{
-	color: #FFEBA4;
+	color: #FF7663;
 	text-decoration: .2em overline #FF7663;
 	font-size: 1.5em;
 
 }
+nav.line a{
+	padding: 1em;
+	width: 25%;
+	font-size: 1.3em;
+	text-decoration: .1em overline #FFEBA4; 
+	font-family: "AR bonnie regular",arial,roboto;
+	color: #024206;
 
+}
 nav.line a.active{
 	text-decoration: .2em overline #024206;
 }
@@ -1397,6 +1405,7 @@ nav {
 
   #j1 { 
     background: #FF7663;
+	  color:#024206;
   }
 
   /* (C) TOGGLE SHOW/HIDE MENU */
