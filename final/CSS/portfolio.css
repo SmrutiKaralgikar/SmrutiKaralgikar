@@ -54,7 +54,7 @@ nav a.active{
 	font-size: 1.5em;
 
 }
-#j2 {
+#j2 a{
 	padding: 1em;
 	width: 25%;
 	font-size: 1.3em;
@@ -63,7 +63,7 @@ nav a.active{
 	color: #024206;
 
 }
-#j2.active{
+#j2 a.active{
 	color: #024206;
 	text-decoration: .2em overline #024206;
 	font-size: 1.5em;
