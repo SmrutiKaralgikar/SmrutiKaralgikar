@@ -99,7 +99,7 @@ section{
 }
 
 .move1{
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/WebDesignillustration.jpg');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/WebDesignillustration.jpg');
 	display: inline-flex;
 	width: 25em;
 	height: 15em;
@@ -109,13 +109,13 @@ section{
 }
 
 .move1:hover{
-	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('/img/WebDesignillustration.jpg');
+	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('img/WebDesignillustration.jpg');
 	background-size: 100% 100%;
 }
 
 .move2{
 	float: right;
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/UXillustration.jpg');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/UXillustration.jpg');
 	display: inline-flex;
 	width: 25em;
 	height: 15em;
@@ -125,12 +125,12 @@ section{
 }
 
 .move2:hover{
-	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('/img/UXillustration.jpg');
+	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('img/UXillustration.jpg');
 	background-size: 100% 100%;
 }
 
 .move3{
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/Galleryillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/Galleryillustration.png');
 	display: inline-flex;
 	width: 25em;
 	height: 15em;
@@ -140,13 +140,13 @@ section{
 }
 
 .move3:hover{
-	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('/img/Galleryillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('img/Galleryillustration.png');
 	background-size: 100% 100%;
 }
 
 .move4{
 	float: right;
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/Designillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/Designillustration.png');
 	display: inline-flex;
 	width: 25em;
 	height: 15em;
@@ -156,7 +156,7 @@ section{
 }
 
 .move4:hover{
-	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('/img/Designillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('img/Designillustration.png');
 	background-size: 100% 100%;
 }
 
@@ -504,13 +504,13 @@ section{
 }
 
 .move1:hover{
-	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('/img/WebDesignillustration.jpg');
+	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('img/WebDesignillustration.jpg');
 	background-size: 100% 100%;
 }
 
 .move2{
 	float: right;
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/UXillustration.jpg');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/UXillustration.jpg');
 	display: inline-flex;
 	width: 30vw;
 	height: 25vh;
@@ -520,12 +520,12 @@ section{
 }
 
 .move2:hover{
-	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('/img/UXillustration.jpg');
+	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('img/UXillustration.jpg');
 	background-size: 100% 100%;
 }
 
 .move3{
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/Galleryillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/Galleryillustration.png');
 	display: inline-flex;
 	width: 30vw;
 	height: 25vh;
@@ -535,13 +535,13 @@ section{
 }
 
 .move3:hover{
-	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('/img/Galleryillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('img/Galleryillustration.png');
 	background-size: 100% 100%;
 }
 
 .move4{
 	float: right;
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/Designillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/Designillustration.png');
 	display: inline-flex;
 	width: 30vw;
 	height: 25vh;
@@ -551,7 +551,7 @@ section{
 }
 
 .move4:hover{
-	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('/img/Designillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .8), rgba(2, 66, 6, .8)),url('img/Designillustration.png');
 	background-size: 100% 100%;
 }
 
@@ -775,7 +775,7 @@ section{
 }
 
 .move1{
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/WebDesignillustration.jpg');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/WebDesignillustration.jpg');
 	width: 86vw;
 	height: 45vh;
 	padding: .1em .1em;
@@ -786,7 +786,7 @@ section{
 }
 
 .move2{
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/UXillustration.jpg');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/UXillustration.jpg');
 	width: 86vw;
 	height: 45vh;
 	padding: .1em .1em;
@@ -797,7 +797,7 @@ section{
 }
 
 .move3{
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/Galleryillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/Galleryillustration.png');
 	width: 86vw;
 	height: 45vh;
 	padding: .1em .1em;
@@ -808,7 +808,7 @@ section{
 }
 
 .move4{
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/Designillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/Designillustration.png');
 	width: 86vw;
 	height: 45vh;
 	padding: .1em .1em;
@@ -1111,7 +1111,7 @@ section{
 }
 
 .move1{
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/WebDesignillustration.jpg');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/WebDesignillustration.jpg');
 	width: 72vw;
 	height: 30vh;
 	padding: .1em .1em;
@@ -1122,7 +1122,7 @@ section{
 }
 
 .move2{
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/UXillustration.jpg');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/UXillustration.jpg');
 	width: 72vw;
 	height: 30vh;
 	padding: .1em .1em;
@@ -1133,7 +1133,7 @@ section{
 }
 
 .move3{
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/Galleryillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/Galleryillustration.png');
 	width: 72vw;
 	height: 30vh;
 	padding: .1em .1em;
@@ -1144,7 +1144,7 @@ section{
 }
 
 .move4{
-	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('/img/Designillustration.png');
+	background: linear-gradient(rgba(2, 66, 6, .5), rgba(2, 66, 6, .5)),url('img/Designillustration.png');
 	width: 72vw;
 	height: 30vh;
 	padding: .1em .1em;
