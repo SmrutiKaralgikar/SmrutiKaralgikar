@@ -54,7 +54,7 @@ nav a.active{
 	font-size: 1.5em;
 
 }
-nav.line a{
+#j2 a{
 	padding: 1em;
 	width: 25%;
 	font-size: 1.3em;
@@ -63,8 +63,10 @@ nav.line a{
 	color: #024206;
 
 }
-nav.line a.active{
+#j2 a.active{
+	color: #024206;
 	text-decoration: .2em overline #024206;
+	font-size: 1.5em;
 }
 
 /* (B) HORIZONTAL MENU ITEMS */
