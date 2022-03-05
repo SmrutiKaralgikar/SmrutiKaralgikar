@@ -295,7 +295,7 @@ input{
 
 textarea{
 	width: 40vw;
-	height: 8vh;
+	height: 4vh;
 	border: .2em solid  #FF7663;
 	background-color: #FFEBA4;
 	-moz-border-radius: .1em;
@@ -932,7 +932,7 @@ input{
 
 textarea{
 	width: 88vw;
-	height:6vh;
+	height:5vh;
 	border: .2em solid  #FF7663;
 	background-color: #FFEBA4;
 	-moz-border-radius: .1em;
@@ -1269,7 +1269,7 @@ input{
 
 textarea{
 	width: 78vw;
-	height:4vh;
+	height:3vh;
 	border: .2em solid  #FF7663;
 	background-color: #FFEBA4;
 	-moz-border-radius: .1em;
