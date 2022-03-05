@@ -9,11 +9,11 @@ header h1{
 }
 
 header h1.s1{
-	color: #024206;
+	color: #FFEBA4;
 	text-align: center;
 	font-family: "AR bonnie regular",arial,roboto;
 	font-size: 3em;
-	text-shadow: 0 2px #FFEBA4;
+	text-shadow: 0 2px #ED6C5C;
 }
 
 header h2{
@@ -26,12 +26,12 @@ header h2{
 }
 
 header h2.s2{
-	color: #024206;
+	color: #FFEBA4;
 	text-align: center;
 	padding: 0.1em;
 	font-family: "AR bonnie regular",arial,roboto;
 	font-size: 1.5em;
-	text-shadow: 0 1.5px #FFEBA4;
+	text-shadow: 0 1.5px #ED6C5C;
 }
 
 nav{
